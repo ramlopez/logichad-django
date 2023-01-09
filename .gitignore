@@ -1,3 +1,13 @@
+## -------------------------------------------------------------------------------------------------
+## This project's additions to .gitignore
+
+# IDE files that shouldn't be committed (please add if your IDE has more)
+*.code-workspace
+
+
+## -------------------------------------------------------------------------------------------------
+## GitHub's Python .gitignore template
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
